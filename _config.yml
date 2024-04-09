@@ -1,11 +1,11 @@
 # Basic options
-title: Regression Analysis with R
-short_name: workshop-name
+title: Advanced Regression Analysis with R
+short_name: advanced-regression
 developers: Eilis Hannon
-description: In this hands on workshop you will learn how to fit a range of regression models with R, how to interpret the output and the link between regression and other common statistical tools.
+description: This course builds on the Beginner’s Regression workshop where you will learn how to use regression models with R to model complex, multi-dimensional datasets and make more nuanced comparisons. 
 n_sessions: 1
-prereq: Intoduction to R
-url: https://uniexeterrse.github.io/intro-regression-with-r
+prereq: Introduction to R, Introduction to Regression with R
+url: https://coding-for-reproducible-research.github.io/advanced-regression-with-r
 
 # Specify that things in the episodes collection should be output.
 collections:
