@@ -30,13 +30,13 @@ devtools::install_github("coding-for-reproducible-research/cfrr-r-tutorials")
 We can now launch the tutorial with this code. Note it need to build the interactive elements so may take a few minutes. The progress of the build can be seen in the **Jobs** tab in the bottom left panel. 
 
 ```
-learnr::run_tutorial("Regression Analysis with R", "cfrrRTutorials")
+learnr::run_tutorial("Advanced Regression Analysis", "cfrrRTutorials")
 ```
 
 When ready the tutorial may launch in a new window, or (more likely) there will be some output in red in the **Jobs** console that says something like:  
 
 ```
-Output created: Regression-Analysis-with-R.html
+Output created: Advanced-Regression-Analysis.html
 
 Listening on http://127.0.0.1:38555
 
@@ -46,6 +46,6 @@ Listening on http://127.0.0.1:38555
 +------------------------------------------------------------------------+
 ```
 
-To launch the tutorial you shuold need to copy the web address in this case (http://127.0.0.1:38555) into a web browser of your choice, such as chrome. 
+To launch the tutorial you should need to copy the web address in this case (http://127.0.0.1:38555) into a web browser of your choice, such as chrome. 
 
 We will now continue the workshop in this document. 
